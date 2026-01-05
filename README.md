@@ -4,3 +4,5 @@ Made by the YHI547 organization
 I hope that those who have Windows will use this tool and it will be useful for them
 # run_win
 ```bash
+gti clone https://github.com/YHI547/YHI_St_Win.git
+```
