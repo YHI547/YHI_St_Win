@@ -6,3 +6,7 @@ I hope that those who have Windows will use this tool and it will be useful for 
 ```bash
 gti clone https://github.com/YHI547/YHI_St_Win.git
 ```
+Important:  Only works for Windows
+```bash
+cd YHI_St_Win
+```
