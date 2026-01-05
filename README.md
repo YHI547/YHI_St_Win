@@ -17,4 +17,4 @@ cd YHI_St_Win
 python st_win.py
 ```
 # Time_Upload
-2:03 1/5/2026
+2:03 PM  1/5/2026 
